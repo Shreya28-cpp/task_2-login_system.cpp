@@ -1,0 +1,19 @@
+------ MENU ------
+1. Register
+2. Login
+3. Exit
+Enter your choice: 1
+
+Enter username: shreya
+Enter password: 1234
+✅ Registration successful!
+
+------ MENU ------
+1. Register
+2. Login
+3. Exit
+Enter your choice: 2
+
+Enter username: shreya
+Enter password: 1234
+✅ Login successful!
